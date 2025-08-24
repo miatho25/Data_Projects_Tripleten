@@ -1,4 +1,0 @@
-# inside your target repo
-git remote add source https://github.com/miatho25/SDT-project4.git
-git fetch source
-git checkout source/main -- path/to/file.ipynb
